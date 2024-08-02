@@ -9,17 +9,15 @@ Scripts and usage:
 
 usage :
 
-#### [root@l4feer]$ ./notes-saver.sh "helo
-there"
+#### [root@l4feer]$ ./notes-saver.sh "helothere"
 	or
-
 #### [root@l4feer]$ sh notes-saver.sh "hello
 here are the notes with multiple line, by just manipulating with double quotes"
 
 *Description :*
             ***It stores the message/notes under double quotes, which should be passed on commandline <just after the command>,
             it creates a new file named notes.txt, otherwise if there already, it just append the message/notes with date time***
-	    ----------------------------------------------------------
+----------------------------------------------------------
 	Safe File Deleter:
 
 usage :
