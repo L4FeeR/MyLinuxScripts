@@ -15,7 +15,7 @@ there"
 [root@l4feer]$ sh notes-saver.sh "hello
 here are the notes with multiple line, by just manipulating with double quotes"
 
-####Description :
+#### Description :
             It stores the message/notes under double quotes, which should be passed on commandline <just after the command>,
             it creates a new file named notes.txt, otherwise if there already, it just append the message/notes with date time
 ----------------------------------------------------------
@@ -30,7 +30,7 @@ usage :
 [root@l4feer]$ ./safe-file-del.py
 
 
-####Description :
+#### Description :
 	    This script is used to delete files in current directory with shred,
 	    Using shred before deleting so that no one can read the content inside the deleted file
 			Even the recover with some other technology!
