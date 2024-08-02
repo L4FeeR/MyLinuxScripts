@@ -7,13 +7,14 @@ Scripts and usage:
 ----------------------------------------------------------
 	notes-saver.sh:
 
-usage : 
-[root@l4feer]$ ./notes-saver.sh "helo
-there"
+usage :
+
+***[root@l4feer]$ ./notes-saver.sh "helo
+there"***
 	or
 
-[root@l4feer]$ sh notes-saver.sh "hello
-here are the notes with multiple line, by just manipulating with double quotes"
+***[root@l4feer]$ sh notes-saver.sh "hello
+here are the notes with multiple line, by just manipulating with double quotes"***
 
 #### Description :
             It stores the message/notes under double quotes, which should be passed on commandline <just after the command>,
@@ -23,9 +24,9 @@ here are the notes with multiple line, by just manipulating with double quotes"
 
 usage :
 
-[root@l4feer]$ python3 safe-file-del.py
+***[root@l4feer]$ python3 safe-file-del.py***
 		or
-[root@l4feer]$ ./safe-file-del.py
+***[root@l4feer]$ ./safe-file-del.py***
 
 
 #### Description :
