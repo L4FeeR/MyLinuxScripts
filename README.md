@@ -24,9 +24,7 @@ here are the notes with multiple line, by just manipulating with double quotes"
 usage :
 
 [root@l4feer]$ python3 safe-file-del.py
-
 		or
-
 [root@l4feer]$ ./safe-file-del.py
 
 
