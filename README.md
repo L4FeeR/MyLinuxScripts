@@ -24,10 +24,14 @@ Description :
 usage :
 
 [root@l4feer]$ python3 safe-file-del.py
+
 		or
+
 [root@l4feer]$ ./safe-file-del.py
+
+
 Description :
-	    This script is used to delete files in current directory with shred
+	    This script is used to delete files in current directory with shred,
 	    Using shred before deleting so that no one can read the content inside the deleted file
 			Even the recover with some other technology!
 	    Be careful while running this script, otherwise u will lose your own files which might be a important stuff
