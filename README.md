@@ -10,7 +10,7 @@ Scripts and usage:
 usage :
 
 #### [root@l4feer]$ ./notes-saver.sh "helothere"
-	or
+***	     or***
 #### [root@l4feer]$ sh notes-saver.sh "hello
 here are the notes with multiple line, by just manipulating with double quotes"
 
@@ -23,7 +23,9 @@ here are the notes with multiple line, by just manipulating with double quotes"
 usage :
 
 ### [root@l4feer]$ python3 safe-file-del.py
-		or
+
+***             or***
+
 ### [root@l4feer]$ ./safe-file-del.py
 
 
